@@ -10,3 +10,7 @@ Este proyecto del curso es para hacer la página web de una agencia de viajes fi
 -Descargar
 
 -Abrir
+
+## Contribuciones
+
+@alaner91
